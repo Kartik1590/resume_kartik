@@ -1,0 +1,15 @@
+
+table,th,td{
+  border:1px solid black;
+}
+table{
+  height:50%;
+  width:50%;
+}
+td{
+  text-align:center;
+}
+body{
+  outline: 1px solid black;
+  padding: 2rem;
+}
